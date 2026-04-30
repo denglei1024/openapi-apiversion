@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApi-ApiVersion", "OpenApi-ApiVersion\OpenApi-ApiVersion.csproj", "{BBD932D4-8269-4413-A4DE-5C0A8A157ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD932D4-8269-4413-A4DE-5C0A8A157ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD932D4-8269-4413-A4DE-5C0A8A157ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD932D4-8269-4413-A4DE-5C0A8A157ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD932D4-8269-4413-A4DE-5C0A8A157ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
