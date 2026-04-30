@@ -1,0 +1,59 @@
+## -------- Build output --------
+bin/
+obj/
+
+## -------- NuGet --------
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+.nuget/
+
+## -------- Test & Coverage --------
+TestResults/
+coverage/
+*.trx
+*.coveragexml
+*.opencover.xml
+
+## -------- Visual Studio --------
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+
+## -------- JetBrains Rider --------
+.idea/
+*.sln.iml
+
+## -------- VS Code --------
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+## -------- Publish / deployment --------
+**/publish/
+**/PublishProfiles/
+
+## -------- .NET secrets & config overrides --------
+secrets.json
+appsettings.*.local.json
+
+## -------- OS --------
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
